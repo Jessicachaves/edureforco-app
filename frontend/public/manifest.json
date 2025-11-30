@@ -1,0 +1,30 @@
+{
+  "name": "EduReforço - Reforço Escolar com IA",
+  "short_name": "EduReforço",
+  "description": "Plataforma inteligente de reforço escolar com IA, gamificação e aprendizado personalizado",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}
+
+
+
