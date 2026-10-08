@@ -34,7 +34,34 @@ O projeto resolve três problemas principais:
 
 ---
 
+## 📸 Demonstração da Plataforma
+
+<div align="center">
+
+### 🏠 Página Inicial & Dashboard do Aluno
+<p align="center">
+  <img src="docs/screenshots/01_landing_home.png" alt="Landing Page EduReforço" width="48%" />
+  <img src="docs/screenshots/03_dashboard.png" alt="Dashboard do Aluno" width="48%" />
+</p>
+
+### 🏆 Gamificação & 💎 Planos de Assinatura
+<p align="center">
+  <img src="docs/screenshots/06_ranking_gamificacao.png" alt="Ranking e Conquistas" width="48%" />
+  <img src="docs/screenshots/07_planos_assinatura.png" alt="Planos de Assinatura" width="48%" />
+</p>
+
+### 🤖 Tutor com IA & 📝 Exercícios
+<p align="center">
+  <img src="docs/screenshots/05_tutor_ia.png" alt="Tutor com Inteligência Artificial" width="48%" />
+  <img src="docs/screenshots/04_exercicios.png" alt="Banco de Exercícios" width="48%" />
+</p>
+
+</div>
+
+---
+
 ## ✨ Funcionalidades
+
 
 ### Para Alunos
 - 🧠 **Tutor IA Personalizado** - Tire dúvidas e receba explicações
